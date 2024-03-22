@@ -36,16 +36,16 @@ const questions = [
         message: 'Please select the license used:',
         choices: [
             'None',
-            'MIT',
             'Apache 2.0',
-            'GNU GPL v3',
+            'Boost',
             'BSD 2-Clause',
-            'ISC',
-            'GNU LGPL v3',
-            'GNU AGPL v3',
             'CCO 1.0 Universal',
-            'MPL 2.0',
-            'Boost'
+            'GNU AGPL v3',
+            'GNU GPL v3',
+            'GNU LGPL v3',
+            'ISC',
+            'MIT',
+            'MPL 2.0'
         ]
       },
       {
