@@ -29,7 +29,7 @@ To use this application, clone the repo, run nodejs on index.js, then respond to
 Example of prompts:
 ![Git Bash showing the application presenting questions](./screenshots/Screenshot-of-prompt.png)
 
-Or you can [watch a breif ~2 minute video demonstration](https://drive.google.com/file/d/1oSL23y9zeA6RKMeNkJh8-xS52Jap3vd-/view)
+Or you can [watch a brief ~2 minute video demonstration](https://drive.google.com/file/d/1oSL23y9zeA6RKMeNkJh8-xS52Jap3vd-/view)
   
 ## Credits
   
