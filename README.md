@@ -5,6 +5,7 @@
 ## Description
   
 This application is intended to streamline the README creation process.
+Working on this was my first experience with almost anything pertaining to the license and badge portions of README creation.
   
 ## Table of Contents (Optional)
   
@@ -23,15 +24,17 @@ No installation needed!
   
 ## Usage
   
-To use this application, clone/branch the repo, run nodejs on index.js, then respond to the prompts as they appear. Once finished, the application generates a README based on your responses to the questions.
+To use this application, clone the repo, run nodejs on index.js, then respond to the prompts as they appear. Once finished, the application generates a README based on your responses to the questions.
   
 ## Credits
   
 Shouts out to inquirer and everyone on stackoverflow, you the realest!
 
 ## License
-  
-  This project is licensed under the [MIT](https://opensource.org/licenses/MIT)
+
+There is actually no license associated with this project. The attached badge and license are only there as part of the demonstration of the application working.
+
+This project is licensed under the [MIT](https://opensource.org/licenses/MIT)
   
 ## Features
   
