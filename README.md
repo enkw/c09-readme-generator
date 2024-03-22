@@ -1,8 +1,10 @@
-# test project name
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+# test project
+
+  ![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)
+
   ## Description
   
-  test project description, golly i sure do hope this works
+  test
   
   ## Table of Contents (Optional)
   
@@ -17,32 +19,32 @@
   
   ## Installation
   
-  test instructions don't need no instructions dawg
+  test
   
   ## Usage
   
-  use this as a test
+  test
   
   ## Credits
   
-  me, test, da hood
+  test
   
   ## License
   
-  This project is licensed under the MIT(https://opensource.org/licenses/MIT)
+  This project is licensed under the [MPL 2.0](https://opensource.org/licenses/MPL-2.0)
   
   ## Features
   
-  you can test it, you can feed it, you can take it on walks
+  test
   
   ## How to Contribute
   
-  please don't, or test it
+  test
   
   ## Tests
   
-  this is a test, so to test the test would be to hit enter
+  test
 
   ## Questions
 
-  For any questions about this project, please visit my [GitHub](https://github.com/enkw) or email me at nahdawg@hellnah.org.
+  For any questions about this project, please visit my [GitHub](https://github.com/enkw) or email me at test.
