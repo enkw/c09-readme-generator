@@ -50,7 +50,7 @@ function renderLicenseLink(license) {
 
 function renderTOCLink(license) {
   if (license) {
-    return '\n - [License](#license)\n';
+    return '\n  - [License](#license)';
   }
   return '';
 }
@@ -73,7 +73,9 @@ function generateMarkdown(data) {
   const licenseSection = renderLicenseSection(data.license);
 
   return `# ${data.title}
+
   ${licenseBadge}
+  
   ## Description
   
   ${data.description}
