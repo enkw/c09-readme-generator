@@ -63,8 +63,8 @@ function renderLicenseSection(license) {
     return '';
   }
   return `\n\n## License
-  
-  This project is licensed under the [${license}]`;
+
+This project is licensed under the [${license}]`;
 }
 
 // This section generates the md for the README
