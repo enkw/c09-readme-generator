@@ -1,8 +1,9 @@
-// TODO: Include packages needed for this application
+// Calls all required variables for the project
 const fs = require('fs');
 const inquirer = require('inquirer');
 const generateMarkdown = require('./utils/generateMarkdown');
-// TODO: Create an array of questions for user input
+
+// Below is an array with each questions for the user
 const questions = [
     {
         type: 'input',
@@ -32,7 +33,20 @@ const questions = [
       {
         type: 'list',
         name: 'license',
-        message: 'Please select the license used:'
+        message: 'Please select the license used:',
+        choices: [
+            'None',
+            'MIT',
+            'Apache 2.0',
+            'GNU GPL v3',
+            'BSD 2-Clause',
+            'ISC',
+            'GNU LGPL v3',
+            'GNU AGPL v3',
+            'CCO 1.0 Universal',
+            'MPL 2.0',
+            'Boost'
+        ]
       },
       {
         type: 'input',
@@ -61,7 +75,7 @@ const questions = [
       }
 ];
 
-// TODO: Create a function to write README file
+// This function creates the README.md
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, data, (err) =>
             err ? console.error("Error generating file.") : console.log("README.md generated!")
