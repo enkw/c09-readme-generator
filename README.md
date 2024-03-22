@@ -25,6 +25,11 @@ No installation needed!
 ## Usage
   
 To use this application, clone the repo, run nodejs on index.js, then respond to the prompts as they appear. Once finished, the application generates a README based on your responses to the questions.
+
+Example of prompts:
+![Git Bash showing the application presenting questions](./screenshots/Screenshot-of-prompt)
+
+Or you can [watch a breif ~2 minute video demonstration](https://drive.google.com/file/d/1oSL23y9zeA6RKMeNkJh8-xS52Jap3vd-/view)
   
 ## Credits
   
